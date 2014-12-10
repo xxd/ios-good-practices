@@ -59,6 +59,7 @@ To keep all those hundreds of source files ending up in the same directory, it's
     ├─ Controllers
     ├─ Stores
     ├─ Helpers
+    ├─ Vendors
 
 First, create them as groups (little yellow "folders") within the group with your project's name in Xcode's Project Navigator. Then, for each of the groups, link them to an actual directory in your project path by opening their File Inspector on the right, hitting the little gray folder icon, and creating a new subfolder with the name of the group in your project directory.
 
